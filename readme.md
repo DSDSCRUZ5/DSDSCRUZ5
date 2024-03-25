@@ -6,3 +6,9 @@ nuevas habilidades.
 
 ### CONTACTAME
 puedes contactarme por las diferentes redes sociales.
+
+## LANGUAGES
+- English
+- Spanish
+- Chinese
+- Russian
