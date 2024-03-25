@@ -6,3 +6,9 @@ nuevas habilidades.
 
 ### CONTACTAME
 puedes contactarme por las diferentes redes sociales.
+
+## SKILLS
+- Comunicación 
+- trabajo en equipo
+- solución de problemas
+- Pensamiento crítiico
