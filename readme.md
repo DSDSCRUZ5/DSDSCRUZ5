@@ -7,6 +7,10 @@ nuevas habilidades.
 ### CONTACTAME
 puedes contactarme por las diferentes redes sociales.
 
+## HOBBIES
+- watching tv
+- playing volleyball
+- listening music
 ## SKILLS
 - Comunicación 
 - trabajo en equipo
