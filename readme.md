@@ -6,3 +6,8 @@ nuevas habilidades.
 
 ### CONTACTAME
 puedes contactarme por las diferentes redes sociales.
+
+## TECHNOLOGIES
+- JS
+- HTML
+- CSS
