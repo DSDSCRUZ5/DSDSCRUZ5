@@ -11,3 +11,8 @@ puedes contactarme por las diferentes redes sociales.
 - watching tv
 - playing volleyball
 - listening music
+## SKILLS
+- Comunicación 
+- trabajo en equipo
+- solución de problemas
+- Pensamiento crítiico
